@@ -1,0 +1,20 @@
+{
+  "name": "Microbit-EQ Field Mission",
+  "version": "0.0.1",
+  "description": "PTKidsBIT line-following field mission for Microbit-EQ",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*",
+    "radio": "*",
+    "PTKidsBITRobot": "github:iBuilds/pxt-PTKidsBIT-Robot#v1.6.5"
+  },
+  "files": [
+    "main.ts",
+    "README.md"
+  ],
+  "preferredEditor": "tsprj",
+  "targetVersions": {
+    "target": "8.0.18",
+    "targetId": "microbit"
+  }
+}
