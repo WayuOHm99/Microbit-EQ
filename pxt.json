@@ -6,7 +6,7 @@
   "dependencies": {
     "core": "*",
     "radio": "*",
-    "PTKidsBITRobot": "github:iBuilds/pxt-PTKidsBIT-Robot#v1.6.5"
+    "pxt-kidsbit-vx": "github:pt-robotics/pxt-kidsbit-vx#v1.0.9"
   },
   "files": [
     "main.ts",
@@ -14,7 +14,7 @@
   ],
   "preferredEditor": "tsprj",
   "targetVersions": {
-    "target": "8.0.18",
+    "target": "8.0.22",
     "targetId": "microbit"
   }
 }
