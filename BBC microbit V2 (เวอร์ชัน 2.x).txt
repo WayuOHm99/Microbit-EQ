@@ -1,0 +1,9 @@
+BBC micro:bit V2 (เวอร์ชัน 2.x)
+
+วิธีตั้งคำสั่ง
+1.ให้ไปที่ เว็บ https://makecode.microbit.org/
+-เพื่อตั้งคำสั่ง
+1.1กด New Project > ตั้งชื่อ
+-ตั้งชื่อ และ
+
+2.https://github.com/pt-robotics/pxt-kidsbit-vx
